@@ -8,8 +8,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "test": "jest -i",
-    "serv":"node server.js"
+    "test": "jest -i"
+    
   },
   "jest": {
     "testPathIgnorePatterns": [
